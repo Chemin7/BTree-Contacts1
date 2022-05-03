@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1649643801 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\ed1\act 12\btree\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	"btree.h"
+
+1649642098 c:\users\user\onedrive - universidad de guadalajara\2do sem\ed1\act 12\btree\btree.h
+	<exception>
+	<string>
+	<iostream>
+
+1651456337 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	"btree.h"
+
+1651456101 c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree\btree.h
+	<exception>
+	<string>
+	<iostream>
+
+1651587487 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree\btree\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	"btree.h"
+	"contact.h"
+
+1651587922 c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree\btree\btree.h
+	<exception>
+	<string>
+	<iostream>
+
+1651452768 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree\btree\contact.cpp
+	"contact.h"
+	<iostream>
+	<regex>
+
+1651121357 c:\users\user\onedrive - universidad de guadalajara\2do sem\sed1\actividad 11\btree\btree\contact.h
+	<string>
+	<regex>
+	<iostream>
+
